@@ -1,0 +1,15 @@
+/*
+ * hello.cpp
+ *
+ *  Created on: May 23, 2024
+ *      Author: ARYAN
+ */
+
+#include <cstudio>
+
+int main(){
+	printf("hello world");
+	return 0;
+}
+
+
